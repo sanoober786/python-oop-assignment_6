@@ -1,8 +1,8 @@
-#Python OOP Assignments 6
+# Python OOP Assignments 6
 
 This repository contains a collection of object-oriented programming (OOP) assignments written in Python. Each script demonstrates a specific concept such as classes, inheritance, decorators, exceptions, and more.
 
-##🧠 Topics Covered
+## 🧠 Topics Covered
 
 - self and constructors
 - Class variables and class methods
@@ -27,6 +27,6 @@ This repository contains a collection of object-oriented programming (OOP) assig
  
 Each assignment is written in a separate file with clear comments.
 
-##✍️ Author
+## ✍️ Author
 
 Sanoober – Student at GIAIC Governor House, exploring Python and software development
