@@ -22,7 +22,7 @@ This repository contains a collection of object-oriented programming (OOP) assig
 - callable() and call()
 - Creating a Custom Exception
 - Make a Custom Class Iterable
-- 
+ 
  ## 📁 Folder Structure
  
 Each assignment is written in a separate file with clear comments.
