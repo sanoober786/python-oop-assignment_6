@@ -25,7 +25,10 @@ This repository contains a collection of object-oriented programming (OOP) assig
  
  ## 📁 Folder Structure
  
-Each assignment is written in a separate file with clear comments.
+Each assignment is written in a separate file with clear comments. Example:
+
+- Using_self.py
+- Aggregation.py
 
 ## ✍️ Author
 
